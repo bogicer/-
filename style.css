@@ -1,34 +1,7 @@
-body {
-    background-color: white;
-}
-
-main {
-    background-color: #d3a8bc;
-}
-
 header {
-    
+    background-color: #cf03fc;
 }
 
-header h1, h2  {
+header h1, h2 {
     text-align: center;
 }
-
-#language-switcher {
-  background-color: #ff0073;
-  border: none;
-  color: white;
-  padding: 10px 20px;
-  text-align: right;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-header p {
-    text-align: right;
-}
-
